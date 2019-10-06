@@ -1,0 +1,12 @@
+export const CHANGE_VALUE = 'change_value';
+export const ERROR_REGISTER = 'error_register';
+export const CLEANING_STATE = 'cleaning_lisence';
+export const SUCCESS_REGISTER = 'success_register';
+export const AUTH_USER = 'authentication_user';
+export const ERROR_LOGIN = 'error_login';
+export const LOADING = 'loading';
+export const ERROR_ADD_CONTACT = 'error_add_contact';
+export const LOADING_ADD_CONTACT = 'loading_add_contact';
+export const GET_FEED = 'get_feed';
+export const ERROR_FEED = 'error_feed';
+export const ADD_CAR = 'add_car';
